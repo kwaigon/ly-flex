@@ -1,0 +1,11 @@
+{
+  "name": "ly-flex",
+  "version": "1.0.0",
+  "description": "flexbox classes wrapper",
+  "main": "ly-flex.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nino Dotlic",
+  "license": "ISC"
+}
