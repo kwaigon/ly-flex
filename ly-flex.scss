@@ -1,9 +1,14 @@
 // ------------------------------------
 //
-//  flexbox css layout framework
+//  flexbox css layout class wrapper
 //  ninoslav@gmail.com
 //
 // -----------------------------------
+
+* {
+    min-height: 0;
+    min-width: 0;
+}
 
 @mixin displayFlex($flexDirection: row, $justifyContent: flex-start, $flex: none, $flexWrap: nowrap) {
     display: flex;
